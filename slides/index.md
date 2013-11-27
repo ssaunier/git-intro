@@ -1,10 +1,6 @@
+# Débuter avec Git
+##(et Github)
 
-# Débuter avec Git et Github
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+![](http://sebastien.saunier.me/images/sebastien_saunier.jpg)
+###  [github.com/ssaunier](https://github.com/ssaunier)
