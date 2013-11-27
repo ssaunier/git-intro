@@ -1,6 +1,8 @@
 # Generated on 2013-11-27 using generator-reveal 0.3.2
 module.exports = (grunt) ->
 
+    grunt.loadNpmTasks 'grunt-gh-pages'
+
     grunt.initConfig
 
         watch:
@@ -30,7 +32,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
         connect:
 
             livereload:
