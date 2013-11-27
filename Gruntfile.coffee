@@ -5,6 +5,12 @@ module.exports = (grunt) ->
 
     grunt.initConfig
 
+        "gh-pages":
+            "gh-pages":
+                options:
+                    base: "dist"
+                src: [ '**' ]
+
         watch:
 
             livereload:
