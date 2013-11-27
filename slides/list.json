@@ -1,1 +1,10 @@
-["index.md"]
+[
+    {
+      "filename": "index.md",
+      "attr": {
+        "data-separator" :"^\n\n\n",
+        "data-vertical": "^\n\n",
+        "data-background": "http://25.media.tumblr.com/1b1799b5b7e03b27cfe1ee8b141f7e7b/tumblr_mwhcyahzD61st5lhmo1_1280.jpg"
+      }
+    }
+]
