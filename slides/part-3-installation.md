@@ -13,4 +13,13 @@ note:
 ```shell
 $ git config --global user.name "Sebastien Saunier"
 $ git config --global user.email "seb@saunier.me"
+$ git config -l
+```
+
+
+## Prêt ?
+
+```shell
+$ git --version
+# git version 1.8.4.3
 ```
