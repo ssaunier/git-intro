@@ -36,7 +36,7 @@
         "attr": {
             "data-separator": "^\n\n\n",
             "data-vertical": "^\n\n",
-            "data-background": "/img/dark.jpg"
+            "data-background": "img/dark.jpg"
         }
     }
 ]
