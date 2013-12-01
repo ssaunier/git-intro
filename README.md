@@ -10,3 +10,7 @@ $ yo reveal:slide --markdown --attributes --notes "Slide Title"
 grunt dist
 grunt gh-pages
 ```
+
+## TODO
+
+1. Use http://www.commitstrip.com/wp-content/uploads/2013/11/Strips-_Old-650-finalfinal1.jpg
