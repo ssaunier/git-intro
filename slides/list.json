@@ -30,5 +30,13 @@
             "data-vertical": "^\n\n",
             "data-background": "http://farm7.staticflickr.com/6128/5932561907_c325e9b981_b.jpg"
         }
+    },
+    {
+        "filename": "part-4-first-repo.md",
+        "attr": {
+            "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n",
+            "data-background": "/img/dark.jpg"
+        }
     }
 ]
