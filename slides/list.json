@@ -18,7 +18,9 @@
     {
         "filename": "part-2-git-intro.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n",
+            "data-background": "http://farm5.staticflickr.com/4122/4735516686_62ae6eb0f8_b.jpg"
         }
     }
 ]

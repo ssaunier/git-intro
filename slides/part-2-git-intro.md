@@ -1,7 +1,29 @@
-##  Part 2 - Git Intro
+# Git
 
-This is a new Markdown slide
+## Présentation
 
 note:
     Put your speaker notes here.
     You can see them pressing 's'.
+
+
+## Origine
+
+![](/img/linus.jpg)
+
+Designé et Implémenté en 2005 par **Linus Torvalds**
+
+
+![](/img/git_definition.png)
+
+note:
+    Linus Torvalds : "je ne suis qu'un sale égocentrique,
+    donc j'appelle tous mes projets d'après ma propre personne.
+    D'abord Linux, puis Git.".
+
+
+## Git en 3 mots
+
+1. Décentralisé
+2. Rapide
+3. Performant

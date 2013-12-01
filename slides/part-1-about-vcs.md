@@ -1,8 +1,9 @@
-# Knowledge Worker
+# Nous
 note:
     Nous sommes des travailleurs du savoir,
+    (Knowledge Worker),
     nous passons notre temps à travailleur sur
-    un ordinateur à créer, éditer des documents.
+    un ordinateur à créer et modifier des documents.
     Text, images, projets, etc...
 
 
