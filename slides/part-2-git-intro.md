@@ -22,8 +22,6 @@ note:
     D'abord Linux, puis Git.".
 
 
-## Git en 3 mots
-
-1. Décentralisé
-2. Rapide
-3. Performant
+## Décentralisé
+## Rapide
+## Performant
