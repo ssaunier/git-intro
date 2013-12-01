@@ -1,6 +1,6 @@
 # Installation
 
-<img src="/img/github_app.png" class="as-is" height="300" />
+<img src="img/github_app.png" class="as-is" height="300" />
 
 [mac.github.com](http://mac.github.com) ou [windows.github.com](http://windows.github.com)
 

@@ -19,12 +19,12 @@ note:
 
 ## Évolution d'un fichier
 
-![](/img/history_tracking.png)
+![](img/history_tracking.png)
 
 
 ## Versions
 
-![](/img/manual_version_control.png)
+![](img/manual_version_control.png)
 
 
 ## Gestion de versions
@@ -38,7 +38,7 @@ Pour chaque version d'un document :
 
 ## Travail en équipe
 
-![](/img/history_tracking_collaboration.png)
+![](img/history_tracking_collaboration.png)
 
 
 ## Gestion de versions
@@ -58,4 +58,4 @@ Pour chaque version d'un document :
 1. **Travail en équipe**
 
 
-<img src="/img/git_logo.png" class="as-is" />
+<img src="img/git_logo.png" class="as-is" />

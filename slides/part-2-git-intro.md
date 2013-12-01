@@ -9,12 +9,12 @@ note:
 
 ## Origine
 
-![](/img/linus.jpg)
+![](img/linus.jpg)
 
 Designé et Implémenté en 2005 par **Linus Torvalds**
 
 
-![](/img/git_definition.png)
+![](img/git_definition.png)
 
 note:
     Linus Torvalds : "je ne suis qu'un sale égocentrique,
