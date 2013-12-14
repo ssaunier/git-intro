@@ -21,5 +21,5 @@ $ git config -l
 
 ```shell
 $ git --version
-# git version 1.8.4.3
+# git version 1.8.5
 ```

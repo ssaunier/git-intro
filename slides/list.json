@@ -2,40 +2,30 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-separator": "^\n\n\n",
-            "data-vertical": "^\n\n",
             "data-background": "http://25.media.tumblr.com/1b1799b5b7e03b27cfe1ee8b141f7e7b/tumblr_mwhcyahzD61st5lhmo1_1280.jpg"
         }
     },
     {
         "filename": "part-1-about-vcs.md",
         "attr": {
-            "data-separator": "^\n\n\n",
-            "data-vertical": "^\n\n",
             "data-background": "http://farm4.staticflickr.com/3239/2900449721_b78956e979_b.jpg"
         }
     },
     {
         "filename": "part-2-git-intro.md",
         "attr": {
-            "data-separator": "^\n\n\n",
-            "data-vertical": "^\n\n",
             "data-background": "http://farm5.staticflickr.com/4122/4735516686_62ae6eb0f8_b.jpg"
         }
     },
     {
         "filename": "part-3-installation.md",
         "attr": {
-            "data-separator": "^\n\n\n",
-            "data-vertical": "^\n\n",
             "data-background": "http://farm7.staticflickr.com/6128/5932561907_c325e9b981_b.jpg"
         }
     },
     {
         "filename": "part-4-first-repo.md",
         "attr": {
-            "data-separator": "^\n\n\n",
-            "data-vertical": "^\n\n",
             "data-background": "img/dark.jpg"
         }
     }
