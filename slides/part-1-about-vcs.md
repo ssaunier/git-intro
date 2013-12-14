@@ -1,4 +1,5 @@
-# Nous
+# Nous sommes
+## des travailleurs du savoir
 note:
     Nous sommes des travailleurs du savoir,
     (Knowledge Worker),
@@ -15,11 +16,18 @@ note:
 1. **Modification**
 1. **Sauvegarde**
 1. ...
+note:
+    Demander au public si ça lui parle
+    Corrections,
+    Travail en équipe
 
 
 ## Évolution d'un fichier
 
 ![](img/history_tracking.png)
+note:
+    "Par exemple,"
+    "Introduire la diapo"
 
 
 ## Versions
@@ -34,6 +42,8 @@ Pour chaque version d'un document :
 1. Quand ?
 1. Quoi ?
 1. Pourquoi ?
+note:
+    "Donc on va parler d'un outil"
 
 
 ## Travail en équipe
