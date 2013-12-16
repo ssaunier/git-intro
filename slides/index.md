@@ -8,7 +8,7 @@
 
 <h4>
   @ssaunier sur
-  <a href="http://twitter.com/ssaunier">
+  <a href="https://twitter.com/intent/follow?screen_name=ssaunier">
     <i class="icomoon-twitter"></i>
   </a>
   et
