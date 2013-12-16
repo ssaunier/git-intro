@@ -34,5 +34,23 @@
         "attr": {
             "data-background": "img/dark.jpg"
         }
+    },
+    {
+        "filename": "part-6-remote.md",
+        "attr": {
+            "data-background": "img/dark.jpg"
+        }
+    },
+    {
+        "filename": "part-7-github-pages.md",
+        "attr": {
+            "data-background": "img/dark.jpg"
+        }
+    },
+    {
+        "filename": "part-8-thanks.md",
+        "attr": {
+            "data-background": "http://24.media.tumblr.com/da6bdeb8f4e2e4104b539e5ad755c1cf/tumblr_muuhikhivh1st5lhmo1_1280.jpg"
+        }
     }
 ]
