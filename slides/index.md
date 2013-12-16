@@ -1,3 +1,5 @@
+<img src="img/lewagon.png" class="as-is" height="50" />
+
 # Débuter avec Git
 ##(et Github)
 
