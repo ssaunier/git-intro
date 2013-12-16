@@ -37,5 +37,5 @@ $ git pull origin master  # Récupérer le travail
 ```
 
 
-## _Sync_
+## _Sync Branch_
 Terminologie de l'application GitHub
