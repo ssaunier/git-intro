@@ -77,6 +77,7 @@ module.exports = (grunt) ->
                         'css/**'
                         'js/**'
                         'img/**'
+                        'favicon.ico'
                     ]
                     dest: 'dist/'
                 },{
