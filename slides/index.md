@@ -16,3 +16,7 @@
     <i class="icomoon-github"></i>
   </a>
 </h4>
+
+<a href="http://sebastien.saunier.me/fr">
+  Développeur Ruby on Rails Freelance
+</a>

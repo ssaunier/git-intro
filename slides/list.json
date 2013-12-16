@@ -28,5 +28,11 @@
         "attr": {
             "data-background": "img/dark.jpg"
         }
+    },
+    {
+        "filename": "part-5-branches.md",
+        "attr": {
+            "data-background": "img/dark.jpg"
+        }
     }
 ]

@@ -141,3 +141,5 @@ $ git status
 
 <img src="img/git-5-reset.png" class="as-is" />
 
+
+## Rinse and Repeat
