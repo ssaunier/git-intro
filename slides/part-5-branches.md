@@ -40,6 +40,7 @@ $ git commit
 
 ```shell
 $ git checkout master
+$ git dif master..noel
 $ git merge noel
 ```
 <img src="img/branch-3-merge.png" class="as-is" />

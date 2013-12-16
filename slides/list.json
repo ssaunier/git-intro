@@ -34,5 +34,11 @@
         "attr": {
             "data-background": "img/dark.jpg"
         }
+    },
+    {
+        "filename": "part-6-remote.md",
+        "attr": {
+            "data-background": "img/dark.jpg"
+        }
     }
 ]
