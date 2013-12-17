@@ -42,3 +42,11 @@ Terminologie de l'application GitHub
 
 
 ## Conflits
+
+
+## Pull Requests
+Ou comment utiliser GitHub pour vos revues de code
+
+
+## Fork
+Contribuez à l'open source
