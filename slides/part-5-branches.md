@@ -15,7 +15,7 @@ $ git checkout -b noel
 <img src="img/branch-1-checkout-b.png" class="as-is" />
 
 
-## Naviguation
+## Navigation
 
 Lister les branches
 ```shell
