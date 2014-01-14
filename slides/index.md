@@ -20,5 +20,5 @@
 </h4>
 
 <a href="http://sebastien.saunier.me/fr">
-  Développeur Ruby on Rails Freelance
+  Coach Technique pour Startup
 </a>
